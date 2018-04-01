@@ -19,6 +19,8 @@ namespace winformapp01
             // hotfix에서 주석 추가
 
             // 마스타에서 주석 추가.
+            
+            // 서버로부터수정
         }
     }
 }
