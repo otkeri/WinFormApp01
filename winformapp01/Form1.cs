@@ -25,6 +25,8 @@ namespace winformapp01
             // 원격수정
 
             // 로컬 수정
+            
+            // 재수정
         }
     }
 }
