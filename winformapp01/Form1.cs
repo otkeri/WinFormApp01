@@ -15,6 +15,7 @@ namespace winformapp01
         public Form1()
         {
             InitializeComponent();
+            // 주석 추가.
         }
     }
 }
