@@ -16,6 +16,8 @@ namespace winformapp01
         {
             InitializeComponent();
             // 주석 추가.
+
+            // hotfix에서 추가.
         }
     }
 }
